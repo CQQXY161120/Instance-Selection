@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-This is the code repository to reproduce the experiments in the paper **Instance Selection: A Bayesian Decision Theory Perspective**. This repository is based on [faiss](https://github.com/facebookresearch/faiss), and [Sklearn](https://scikit-learn.org/stable/).
+This is the code repository to reproduce the experiments in the paper **[Instance Selection: A Bayesian Decision Theory Perspective](http://jiyeliang.net/Cms_Data/Contents/SXU_JYL/Folders/JournalPapers/~contents/20223301.pdf)**. This repository is based on [faiss](https://github.com/facebookresearch/faiss), and [Sklearn](https://scikit-learn.org/stable/).
 
 ## Prerequisite
 
