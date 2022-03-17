@@ -26,9 +26,12 @@ conda install -c pytorch/label/nightly faiss-gpu
 ```
 
 
-## Technical Details and Citations:
+## Technical Details and Citations:  
+You can find more details in the paper:  
+Instance Selection: A Bayesian Decision Theory Perspective
 
-If you find this code useful in your research, please cite  
+If you're using this repo in your research or applications, please cite using this BibTeX:
+
 @inproceedings{chen2022IS,  
   title={Instance Selection: A Bayesian Decision Theory Perspective},  
   author={Qingqiang Chen, Fuyuan Cao, Ying Xing, Jiye Liang},  
