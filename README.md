@@ -24,7 +24,9 @@ Install faiss (CPU):
 conda install -c pytorch faiss-gpu
 conda install -c pytorch/label/nightly faiss-gpu
 ```
+## Run Demo
 
+![image](https://github.com/CQQXY161120/Instance-Selection/blob/main/circle_hc.png)
 
 ## Technical Details and Citations:  
 You can find more details in the paper:  
