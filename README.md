@@ -20,7 +20,7 @@ conda install -c pytorch/label/nightly faiss-cpu
 ```
 
 ```
-Install faiss (CPU): 
+Install faiss (GPU): 
 conda install -c pytorch faiss-gpu
 conda install -c pytorch/label/nightly faiss-gpu
 ```
