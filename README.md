@@ -6,7 +6,7 @@ This is the code repository to reproduce the experiments in the paper **[Instanc
 
 ## Prerequisite
 
-we implement our methods by Python 3.8. The environment is as bellow:
+We implement our methods by Python 3.8. The environment is as bellow:
 
 - Anaconda 3  
 - Linux operating system or Windows operating system  
