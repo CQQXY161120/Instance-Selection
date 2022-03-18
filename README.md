@@ -28,17 +28,17 @@ conda install -c pytorch/label/nightly faiss-gpu
 
 ### Synthetic Data Set 
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/circles.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/moons.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Gaussian.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian.png" width='30%' height='30%'/>
 </p>
 
 ### Homogeneous clusters  
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/circles_hc.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/moons_hc.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Gaussian_hc.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles_hc.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons_hc.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian_hc.png" width='30%' height='30%'/>
 </p>
 
 ### Reduced Data Set  
 <p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/circles_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/moons_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Gaussian_reduced.png" width='30%' height='30%'/>
+  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/circles_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/moons_reduced.png" width='30%' height='30%'/><img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/Experimental%20Results/Gaussian_reduced.png" width='30%' height='30%'/>
 </p>
 
 ## Technical Details and Citations:  
