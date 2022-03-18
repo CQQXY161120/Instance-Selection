@@ -25,9 +25,10 @@ conda install -c pytorch faiss-gpu
 conda install -c pytorch/label/nightly faiss-gpu
 ```
 ## Run Demo
-<p align="center">
-  <img src="https://github.com/CQQXY161120/Instance-Selection/blob/main/circle_hc.png" alt="Zeusro的微信二维码" width='30%' height='30%'/>
-</p>
+
+
+
+
 ## Technical Details and Citations:  
 You can find more details in the paper:  
 [Instance Selection: A Bayesian Decision Theory Perspective](http://jiyeliang.net/Cms_Data/Contents/SXU_JYL/Folders/JournalPapers/~contents/20223301.pdf)
