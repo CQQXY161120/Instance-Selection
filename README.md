@@ -47,9 +47,15 @@ You can find more details in the paper:
 
 If you're using this repo in your research or applications, please cite this BibTeX:
 
-@inproceedings{chen2022IS,  
-  title={Instance Selection: A Bayesian Decision Theory Perspective},  
-  author={Qingqiang Chen, Fuyuan Cao, Ying Xing, Jiye Liang},  
-  booktitle={AAAI},  
-  year={2022}  
+@inproceedings{Chen_Cao_Xing_Liang_2022, 
+title={Instance Selection: A Bayesian Decision Theory Perspective}, 
+volume={36}, 
+url={https://ojs.aaai.org/index.php/AAAI/article/view/20578}, 
+DOI={10.1609/aaai.v36i6.20578},
+number={6}, 
+journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+author={Chen, Qingqiang and Cao, Fuyuan and Xing, Ying and Liang, Jiye}, 
+year={2022}, 
+month={Jun.}, 
+pages={6287-6294} 
 }
